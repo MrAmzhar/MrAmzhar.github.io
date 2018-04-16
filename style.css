@@ -12,9 +12,8 @@ p{
  font-family: verdana;
 }
 
-body {
-    background-image: url("https://image.freepik.com/free-vector/white-rhombus-pattern_1053-249.jpg");
-    background-color: #cccccc;
+body 
+    background-color: #33ccff;
 }
 
 .navbar {
