@@ -13,8 +13,11 @@ p{
 }
 
 body {
-    background-image: url:("http://freedesignfile.com/upload/2015/01/White-lace-seamless-pattern-background-vector.jpg")
+    background-image: url("http://freedesignfile.com/upload/2015/01/White-lace-seamless-pattern-background-vector.jpg");
+     background-color: #cccccc;
 }
+
+
 
 .navbar {
     overflow: hidden;
