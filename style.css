@@ -17,9 +17,11 @@ body  {
     background-color: #cccccc;
 }
 
-table{
+td{
  font-family: verdana;
 }
 
-
+th{
+ font-family: verdana;
+}
 
